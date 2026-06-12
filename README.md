@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:202020,100:404040&text=Wagrude&fontSize=55&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineering+Enthusiast;Linux+User;Competitive+Programmer;Open+Source+Contributor;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineering+Enthusiast;Linux;Competitive+Programmer;Open+Source+Contributor;Always+Learning+Something+New"/>
 
 <p>
 
-<img src="https://img.shields.io/badge/Linux-Daily%20Driver-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GSSoC-Contributor-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSSoC-Contributor-000000?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Linux-Daily%20Driver-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 
 <a href="https://www.linkedin.com/in/shivansh-srivastava-64a66a381/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge&logo=linkedin"/>
