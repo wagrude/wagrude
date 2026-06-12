@@ -1,32 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:5B21B6,50:7C3AED,100:2563EB&text=Wagrude&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:202020,100:404040&text=Wagrude&fontSize=55&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=CSIT+Student;Backend+Engineering+Enthusiast;Competitive+Programmer;Open+Source+Contributor;Building+Scalable+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineering+Enthusiast;Linux+User;Competitive+Programmer;Open+Source+Contributor;Always+Learning+Something+New"/>
 
 <p>
 
-<img src="https://img.shields.io/badge/KIET-CSIT-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Daily%20Driver-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GSSoC-Contributor-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSSoC-Contributor-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Fatehpur-UP-blueviolet?style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/shivansh-srivastava-64a66a381/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-6D28D9?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:shivansh.work.college@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-222222?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/wagrude">
-<img src="https://img.shields.io/badge/GitHub-wagrude-4F46E5?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-wagrude-000000?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=wagrude\&style=for-the-badge\&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=wagrude&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 </div>
 
@@ -34,9 +33,11 @@
 
 # About Me
 
-Computer Science & Information Technology undergraduate at **KIET Group of Institutions** with a strong interest in backend engineering, systems programming, competitive programming, and open-source development.
+Hi, I'm **Shivansh (Wagrude)** — a CSIT undergraduate at **KIET Group of Institutions** passionate about backend engineering, Linux, systems programming, competitive programming, and open source.
 
-Currently focused on mastering modern software engineering fundamentals through C++, data structures & algorithms, Git, Linux, and scalable backend technologies while actively participating in collaborative projects and hackathons.
+I enjoy building efficient software, exploring low-level concepts, and continuously improving my problem-solving skills through projects and competitive programming.
+
+Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend Development, Linux, Git, Docker, and System Design while building practical projects and contributing to open source.
 
 ### Open To
 
@@ -70,7 +71,7 @@ Currently focused on mastering modern software engineering fundamentals through 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres"/>
 
 </p>
 
@@ -84,17 +85,18 @@ Currently focused on mastering modern software engineering fundamentals through 
 
 ---
 
-# AI / ML Exposure
+# AI Learning Journey
 
-| Domain              | Level        | Details                                             |
-| ------------------- | ------------ | --------------------------------------------------- |
-| AI Applications     | Intermediate | Building practical AI-powered software solutions    |
-| Disaster Management | Intermediate | Developing AI-assisted emergency response workflows |
-| LLM Integration     | Learning     | Exploring modern AI tooling and APIs                |
-| Computer Vision     | Learning     | Experimenting through hackathon projects            |
 
+Although my primary focus is backend engineering and systems programming, I'm actively exploring AI through projects, hackathons, and modern developer tools.
+
+| Domain | Status | Details |
+|----------|----------|----------|
+| AI Applications | Learning | Building practical AI-powered software |
+| LLM Integration | Learning | Exploring LLM APIs and AI-assisted workflows |
+| Disaster Management | Building | Developing **Sentinel AI** for hackathon |
+| AI Tooling | Exploring | Experimenting with developer-focused AI solutions |
 ---
-
 # Featured Projects
 
 <details>
@@ -143,7 +145,7 @@ Areas of interest:
 </a>
 
 <a href="https://codolio.com/profile/wagrude">
-<img src="https://img.shields.io/badge/Codolio-Profile-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codolio-Profile-000000?style=for-the-badge"/>
 </a>
 
 ---
@@ -152,15 +154,15 @@ Areas of interest:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wagrude&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wagrude&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagrude&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagrude&layout=compact&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=wagrude&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=wagrude&theme=github_dark"/>
 
 </p>
 
@@ -170,7 +172,7 @@ Areas of interest:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wagrude&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wagrude&theme=github_dark&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -180,7 +182,7 @@ Areas of interest:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wagrude&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wagrude&theme=github-dark"/>
 
 </p>
 
@@ -203,7 +205,8 @@ Building:
 Exploring:
   - Cloud Computing
   - System Design
-  - AI Applications
+  - Distributed Systems
+  - Linux Internals
 
 Open To:
   - Internships
@@ -225,8 +228,8 @@ Open To:
 
 <div align="center">
 
-*"Great software is built through consistency, curiosity, and craftsmanship."*
+*"Build. Break. Learn. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5B21B6,50:7C3AED,100:2563EB"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:202020,100:404040"/>
 
 </div>
