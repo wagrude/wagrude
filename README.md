@@ -168,7 +168,7 @@ Areas of interest:
 
 ---
 
-# GitHub Trophies
+<!-- # GitHub Trophies
 
 <p align="center">
 
@@ -176,7 +176,7 @@ Areas of interest:
 
 </p>
 
----
+--- -->
 
 # Contribution Graph
 
