@@ -75,12 +75,38 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 </p>
 
+
 ## Cloud • DevOps • Tooling
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
 
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tkinter-GUI-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pygame-Framework-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NetworkX-000000?style=for-the-badge"/>
 </p>
 
 ---
