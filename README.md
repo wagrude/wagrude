@@ -82,15 +82,16 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
 
+
 </p>
+
+---
+
+## AI • Machine Learning • Data Science
 
 <p>
 
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tkinter-GUI-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pygame-Framework-000000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
@@ -106,7 +107,12 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 <img src="https://img.shields.io/badge/Gymnasium-000000?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Tkinter-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/NetworkX-000000?style=for-the-badge"/>
+
 </p>
 
 ---
