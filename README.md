@@ -2,10 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:202020,100:404040&text=Wagrude&fontSize=55&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineering;Linux+Distro+Hopper;Competitive+Programmer;Open+Source+Contributor;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=Backend+Engineering;Systems+Programming;Linux+Distro+Hopper;Competitive+Programmer;Open+Source+Contributor;AI+Developer+Tooling;Always+Learning+Something+New"/>
 
 <p>
-
 
 <img src="https://img.shields.io/badge/GSSoC-Contributor-000000?style=for-the-badge"/>
 
@@ -25,7 +24,7 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=wagrude&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=wagrude\&style=for-the-badge\&color=000000\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -33,19 +32,24 @@
 
 # About Me
 
-Hi, I'm **Shivansh (Wagrude)** — a CSIT undergraduate at **KIET Group of Institutions** passionate about backend engineering, Linux, systems programming, competitive programming, and open source.
+Hi, I'm **Shivansh (Wagrude)** — a CSIT undergraduate at **KIET Group of Institutions** passionate about backend engineering, systems programming, Linux, competitive programming, AI engineering, and open source.
 
-I enjoy building efficient software, exploring low-level concepts, and continuously improving my problem-solving skills through projects and competitive programming.
+I enjoy building software that goes beyond surface-level functionality. I'm particularly interested in understanding how systems work internally, writing efficient code, working with developer tools, and solving problems using strong algorithmic fundamentals.
 
-Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend Development, Linux, Git, Docker, and System Design while building practical projects and contributing to open source.
+My primary technical direction is **C/C++ focused backend and systems engineering**, supported by Python, Linux, Git, Docker, databases, cloud technologies, and system design.
+
+Alongside backend and systems development, I'm exploring **AI engineering and LLM-powered developer tools**, with a particular interest in applying AI to software development and developer productivity.
+
+Currently, I'm focused on strengthening my foundations in **Modern C++, Data Structures & Algorithms, Backend Development, Linux Internals, Docker, Cloud Computing, System Design, and Distributed Systems**.
 
 ### Open To
 
-* Backend Engineering
+* Backend / Software Engineering Internships
+* Systems Programming Opportunities
 * Open Source Contributions
 * Hackathons
-* Research Collaborations
-* Software Engineering Internships
+* Developer Tooling Projects
+* Backend & Systems Projects
 
 ---
 
@@ -59,13 +63,30 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 </p>
 
-## Frontend
+### Core Programming
 
-<p>
+* **C** — Systems Programming & Low-Level Development
+* **C++** — Modern C++ & Competitive Programming
+* **Python** — Scripting, Automation & AI Development
+* **JavaScript** — Backend & Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+---
 
-</p>
+## Data Structures & Algorithms
+
+* Arrays & Strings
+* Linked Lists
+* Stacks & Queues
+* Recursion
+* Binary Search
+* Hashing
+* Trees & BST
+* Graph Algorithms
+* Sorting & Searching
+* Time & Space Complexity
+* Problem Solving & Competitive Programming
+
+---
 
 ## Backend & Databases
 
@@ -75,19 +96,51 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 </p>
 
+* REST API Development
+* Backend Architecture
+* Database Design
+* SQL
+* API Integration
+* Authentication & Authorization
+* Server-Side Development
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Frontend Integration for Full-Stack Projects
+
+---
 
 ## Cloud • DevOps • Tooling
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,aws"/>
 
 </p>
 
+* Linux
+* Git & GitHub
+* Docker
+* AWS
+* VS Code
+* CLI / Terminal Workflows
+* Development Environment Management
+
 ---
 
-## AI • Machine Learning • Data Science
+# AI • Machine Learning • Data Science
 
 <p>
 
@@ -119,33 +172,86 @@ Currently focused on mastering Modern C++, Data Structures & Algorithms, Backend
 
 # AI Learning Journey
 
+Although my primary focus is **backend engineering and systems programming**, I'm actively exploring AI through practical projects, developer tooling, experimentation, and modern AI systems.
 
-Although my primary focus is backend engineering and systems programming, I'm actively exploring AI through projects, hackathons, and modern developer tools.
+My approach is focused on **building with AI rather than only studying AI theory** — integrating models into useful software, understanding developer workflows, and exploring how AI can augment traditional software engineering.
 
-| Domain | Status | Details |
-|----------|----------|----------|
-| AI Applications | Learning | Building practical AI-powered software |
-| LLM Integration | Learning | Exploring LLM APIs and AI-assisted workflows |
-| Disaster Management | Building | Developing **Sentinel AI** for hackathon |
-| AI Tooling | Exploring | Experimenting with developer-focused AI solutions |
+| Domain             | Status    | Details                                                       |
+| ------------------ | --------- | ------------------------------------------------------------- |
+| AI Applications    | Learning  | Building practical AI-powered software                        |
+| LLM Integration    | Exploring | Working with LLM-powered applications and developer workflows |
+| AI Developer Tools | Building  | Exploring AI-assisted programming and code analysis           |
+| Code Intelligence  | Building  | Developing **CodeAI** for AI-assisted code analysis           |
+| Machine Learning   | Learning  | Exploring ML fundamentals and practical implementations       |
+| AI Tooling         | Exploring | Experimenting with AI-powered developer workflows             |
+
 ---
+
 # Featured Projects
 
+## CodeAI — AI-Powered Code Analysis & Developer Tool
+
 <details>
-<summary><b>Sentinel AI — AI Powered Disaster Management Platform</b></summary>
+<summary><b>View Project Details</b></summary>
 
-An ongoing hackathon project focused on leveraging artificial intelligence to improve disaster response and management workflows.
+**CodeAI** is a developer-focused project exploring the integration of AI with source-code analysis and software development workflows.
 
-| Category    | Information                            |
-| ----------- | -------------------------------------- |
-| Stack       | AI, Web Technologies                   |
-| Scale       | Team Hackathon Project                 |
-| Performance | Work In Progress                       |
-| Security    | Under Development                      |
-| Impact      | Disaster Response Assistance           |
-| Repository  | https://github.com/wagrude/sentinel-ai |
+The project is being developed incrementally, starting from fundamental code analysis and gradually progressing toward compiler integration, project-level context, tool calling, and safe automated code modification.
 
-Designed to explore intelligent assistance for emergency coordination while emphasizing scalability and practical deployment.
+### Development Roadmap
+
+```text
+V1
+Basic Code Analysis
+        |
+        v
+V2
+Multiple Analysis Commands
+        |
+        v
+V3
+Project Context
+        |
+        v
+V4
+Compiler Integration
+        |
+        v
+V5
+Tool Calling
+        |
+        v
+V6
+Safe Code Modification
+```
+
+### Project Direction
+
+* Source Code Analysis
+* Multiple Code Analysis Commands
+* Project-Level Context
+* Compiler Integration
+* AI / LLM Integration
+* Tool Calling
+* Safe Code Modification
+* Developer Productivity
+
+The project is intentionally being developed version-by-version instead of attempting to build the complete system at once.
+
+### Development Roadmap
+
+```text
+V1 → Basic Code Analysis
+V2 → Multiple Analysis Commands
+V3 → Project Context
+V4 → Compiler Integration
+V5 → Tool Calling
+V6 → Safe Code Modification
+```
+
+### Repository
+
+https://github.com/wagrude/codeai
 
 </details>
 
@@ -153,16 +259,44 @@ Designed to explore intelligent assistance for emergency coordination while emph
 
 # Open Source
 
-### GirlScript Summer of Code (GSSoC)
+## GirlScript Summer of Code
 
-Open Source Contributor actively participating in collaborative development and community-driven projects.
+Open Source Contributor participating in collaborative development and community-driven projects.
 
-Areas of interest:
+I'm interested in contributing to real-world codebases, understanding existing architectures, fixing issues, and gradually taking responsibility for meaningful features.
+
+### Areas of Interest
 
 * Backend Development
+* C / C++
+* Developer Tooling
 * Documentation
 * Bug Fixes
 * Feature Development
+* Performance Improvements
+* Software Engineering
+
+---
+
+# Competitive Programming
+
+Competitive programming is one of the ways I continuously improve my **problem-solving, algorithms, data structures, and implementation skills**.
+
+### Current Progress
+
+* **CodeChef:** 1535 — 2★
+* **LeetCode:** 100+ problems solved
+* **Primary Focus:** Data Structures & Algorithms
+* **Languages:** C / C++
+
+### Focus Areas
+
+* Problem Solving
+* Data Structures
+* Algorithms
+* Complexity Analysis
+* Competitive Programming
+* Implementation Skills
 
 ---
 
@@ -200,7 +334,7 @@ Areas of interest:
 
 ---
 
-<!-- # GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -208,7 +342,7 @@ Areas of interest:
 
 </p>
 
---- -->
+---
 
 # Contribution Graph
 
@@ -223,38 +357,109 @@ Areas of interest:
 # Current Focus
 
 ```yaml
-Learning:
-  - Advanced C++
+Core:
+  - C
+  - Modern C++
   - Data Structures & Algorithms
+  - Problem Solving
+
+Backend:
   - Backend Engineering
+  - REST APIs
+  - Databases
+  - Backend Architecture
+
+Systems:
   - Linux
+  - Linux Internals
+  - Systems Programming
+  - Compiler Concepts
+  - Performance-Oriented Programming
+
+DevOps:
+  - Git
+  - GitHub
   - Docker
+  - AWS
+  - Cloud Computing
+
+AI:
+  - LLM Integration
+  - AI Applications
+  - AI Developer Tools
+  - Code Intelligence
 
 Building:
-  - Sentinel AI
+  - CodeAI
+  - Backend Projects
   - Open Source Contributions
 
-Exploring:
-  - Cloud Computing
+Practicing:
+  - Competitive Programming
+  - Data Structures & Algorithms
   - System Design
+  - Problem Solving
+
+Exploring:
+  - Compiler Integration
+  - Developer Tooling
   - Distributed Systems
-  - Linux Internals
+  - AI Engineering
+  - Cloud Architecture
 
 Open To:
-  - Internships
+  - Software Engineering Internships
+  - Backend Internships
+  - Systems Projects
   - Hackathons
   - Open Source
-  - Collaborations
 ```
+
+---
+
+# Learning Philosophy
+
+```text
+Understand the fundamentals.
+        ↓
+Build something practical.
+        ↓
+Break it.
+        ↓
+Debug it.
+        ↓
+Understand why it broke.
+        ↓
+Improve the design.
+        ↓
+Build something harder.
+```
+
+I believe strong software engineers are built by combining **fundamentals, experimentation, problem solving, and consistent building**.
 
 ---
 
 # Connect
 
-* GitHub: https://github.com/wagrude
-* LinkedIn: https://www.linkedin.com/in/shivansh-srivastava-64a66a381/
-* Email: [shivansh.work.college@gmail.com](mailto:shivansh.work.college@gmail.com)
-* Codolio: https://codolio.com/profile/wagrude
+<p>
+
+<a href="https://github.com/wagrude">
+<img src="https://img.shields.io/badge/GitHub-wagrude-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivansh-srivastava-64a66a381/">
+<img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Srivastava-000000?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shivansh.work.college@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-222222?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://codolio.com/profile/wagrude">
+<img src="https://img.shields.io/badge/Codolio-wagrude-000000?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
